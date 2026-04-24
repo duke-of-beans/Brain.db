@@ -1,0 +1,6 @@
+{
+  "brain-mcp": {
+    "command": "node",
+    "args": ["D:\\Projects\\brain-mcp\\dist\\index.js"]
+  }
+}
