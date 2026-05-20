@@ -1,7 +1,1 @@
-feat: brain-mcp v1.0.0 — standalone brain intelligence MCP server
-
-Extracted from KERNL MCP (BRAIN-SESSION-01).
-5 tools: brain_briefing, brain_recall, brain_recall_graph, brain_remember, brain_status.
-Decouples brain.db schema evolution from KERNL release cycle.
-TypeScript 6, moduleResolution: bundler, ESM.
-TSC: 0 errors | Build: clean
+add production README
